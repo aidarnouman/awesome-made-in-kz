@@ -91,6 +91,9 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 - **[Eng-Kk-Tech-Dictionary](https://github.com/son-of-Altay/eng-kk-tech-dictionary)** by [Mukhammedali Muratkhan](https://github.com/son-of-Altay)<br>
   English-Kazakh Dictionary of IT terms<br>
   ![Stars](https://img.shields.io/github/stars/son-of-Altay/eng-kk-tech-dictionary?style=flat-square&color=fec604&labelColor=00b0cb)
+- **[npmscan-mcp-plugin](https://github.com/salemalem/npmscan-mcp-plugin)** by [Shyngys Shynbolatov](https://github.com/salemalem)<br>
+  A remote supply-chain security service and MCP plugin that audits npm packages for malware and trust vulnerabilities.<br>
+  ![Stars](https://img.shields.io/github/stars/salemalem/npmscan-mcp-plugin?style=flat-square&color=fec604&labelColor=00b0cb)
 - **[Leetcoder](https://github.com/yerlantemir/leetcoder)** by [Temir Yerlan](https://github.com/yerlantemir)<br>
   Chrome extension adds sorting to leetcode.com problems<br>
   ![Stars](https://img.shields.io/github/stars/yerlantemir/leetcoder?style=flat-square&color=fec604&labelColor=00b0cb)
